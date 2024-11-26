@@ -1,0 +1,20 @@
+{
+  "name": "react-motion-arrow",
+  "version": "0.0.1",
+  "description": "This is a animation library for React that uses css transitions and transforms to create a smooth animation of an arrow. The arrow can be customized with different themes and options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niladrix719/react-motion-arrow.git"
+  },
+  "author": "Niladri Adhikary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niladrix719/react-motion-arrow/issues"
+  },
+  "keywords": ["react", "reactjs", "animation", "animation-css", "npm-pakage"],
+  "homepage": "https://github.com/niladrix719/react-motion-arrow#readme"
+}
